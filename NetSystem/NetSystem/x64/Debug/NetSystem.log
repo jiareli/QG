@@ -1,0 +1,30 @@
+﻿  NetSystem.c
+D:\VS\VS project\NetSystem\NetSystem.c(103,21): warning C4033: “deleteList”必须返回值
+D:\VS\VS project\NetSystem\NetSystem.c(122,20): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  D:\VS\VS project\NetSystem\NetSystem.c(122,20):
+  占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+D:\VS\VS project\NetSystem\NetSystem.c(167,8): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS\VS project\NetSystem\NetSystem.c(186,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  D:\VS\VS project\NetSystem\NetSystem.c(186,10):
+  此参数用作缓冲区大小
+  
+D:\VS\VS project\NetSystem\NetSystem.c(188,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  D:\VS\VS project\NetSystem\NetSystem.c(188,10):
+  此参数用作缓冲区大小
+  
+D:\VS\VS project\NetSystem\NetSystem.c(190,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  D:\VS\VS project\NetSystem\NetSystem.c(190,10):
+  此参数用作缓冲区大小
+  
+D:\VS\VS project\NetSystem\NetSystem.c(192,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  D:\VS\VS project\NetSystem\NetSystem.c(192,10):
+  此参数用作缓冲区大小
+  
+D:\VS\VS project\NetSystem\NetSystem.c(194,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+  D:\VS\VS project\NetSystem\NetSystem.c(194,10):
+  此参数用作缓冲区大小
+  
+D:\VS\VS project\NetSystem\NetSystem.c(230,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\VS\VS project\NetSystem\NetSystem.c(106,1): warning C4716: “deleteList”: 必须返回一个值
+  NetSystem.vcxproj -> D:\VS\VS project\NetSystem\x64\Debug\NetSystem.exe
